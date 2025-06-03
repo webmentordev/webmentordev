@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @webmentordev
 - 👀 I’m interested in Web Development & Content Creation
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Rust's CLI & Network Programming
 - 📫 How to reach me? contact@webmentordev.online
