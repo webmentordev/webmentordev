@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @webmentordev
+- 👋 Hi, I’m Ahmer AKA webmentordev on YT
 - 👀 I’m interested in Web Development & Content Creation
 - 🌱 I’m currently learning Rust's CLI & Network Programming
-- 📫 How to reach me? contact@webmentordev.online
